@@ -1,0 +1,64 @@
+body{
+    background-color:#fff9db;
+    font-family: 'Cardo', serif;
+}
+header{
+    text-align: end;
+    color: red;
+    font-size: larger;
+   
+}
+h1{
+    padding-top: 8%;
+    padding-bottom: 4%;
+    font-size: xx-large;
+    color: chocolate;
+    text-align: center;
+}
+p{
+    
+    text-align: center;
+    font-size:large;
+}
+h2{
+    color: #a61e4d;
+}
+h3{
+    color: firebrick;
+}
+img{
+    
+    width: 500px;
+    height: 500px;
+}
+.form{
+    border: solid;
+    border-color:aqua;
+    width: 600px;
+    text-align: center;
+    border-radius: 30px;
+    
+}
+.login{
+   
+}
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: crimson;
+    color: aliceblue;
+    margin-bottom: 5%;
+    margin-left: 46%;
+}
+footer{
+    color: antiquewhite;
+    background-color: black;
+    border-top-left-radius: 130px;
+}
+
+.icon{
+    width: 20px;
+    height: 16px;
+    
+}
